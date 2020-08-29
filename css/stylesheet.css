@@ -109,6 +109,10 @@ li {
   letter-spacing: .05em;
 }
 
+.section-text{
+  padding: 50px;
+}
+
 
 .section-image a {
   display: block;
